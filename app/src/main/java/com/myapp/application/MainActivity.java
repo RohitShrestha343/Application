@@ -30,6 +30,8 @@ btnSum.setOnClickListener(new View.OnClickListener() {
     }
 });
 
+int a;
+
 btnSub.setOnClickListener(new View.OnClickListener() {
     @Override
     public void onClick(View view) {
